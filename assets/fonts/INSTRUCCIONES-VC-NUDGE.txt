@@ -1,0 +1,13 @@
+VC NUDGE TRIAL
+
+La hoja de estilos ya declara "VC Nudge Trial" como tipografía preferida para títulos, botones y elementos destacados.
+
+Por motivos de licencia, los archivos de la fuente de prueba no se incluyen en este proyecto. Mientras no se instale una versión web debidamente licenciada, el sitio utilizará Barlow Condensed como alternativa visual.
+
+Para publicar VC Nudge de forma exacta:
+1. Obtén la licencia web correspondiente del proveedor de la tipografía.
+2. Convierte o solicita los archivos web autorizados en formato WOFF2.
+3. Colócalos en esta carpeta.
+4. Añade las reglas @font-face autorizadas al inicio de styles.css.
+
+Work Sans se carga desde Google Fonts.
